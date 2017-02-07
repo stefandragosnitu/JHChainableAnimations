@@ -1001,7 +1001,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 43LEM8BQ2H;
 				INFOPLIST_FILE = "$(SRCROOT)/Examples/JHChainableAnimations iOS Example/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.guaranteed.JHChainableAnimations-iOS-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1018,7 +1018,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 43LEM8BQ2H;
 				INFOPLIST_FILE = "$(SRCROOT)/Examples/JHChainableAnimations iOS Example/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.guaranteed.JHChainableAnimations-iOS-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
